@@ -512,8 +512,7 @@ StScrollBar {
       color: rgba(238, 238, 236, 0.5); }
   .popup-menu.panel-menu {
     -boxpointer-gap: 4px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 0px 25px 0px 25px;
     margin-bottom: 1.75em; }
 
 .popup-menu-ornament {
@@ -672,7 +671,7 @@ StScrollBar {
 
 /* TOP BAR */
 #panel {
-  margin: 5px 10px 0px 10px;
+  margin: 5px 25px 0px 25px;
   background-color: rgba(39, 40, 34, 0.5);
   border: 1px solid rgba(39, 40, 34, 0.5);
   font-weight: bold;
@@ -1197,7 +1196,7 @@ StScrollBar {
   -shell-grid-horizontal-item-size: 136px;
   -shell-grid-vertical-item-size: 136px; }
   .icon-grid .overview-icon {
-    icon-size: 96px; }
+    icon-size: 128px; }
 
 .app-view-controls {
   padding-bottom: 32px; }
@@ -1247,7 +1246,7 @@ StScrollBar {
 .grid-search-result:hover .overview-icon,
 .grid-search-result:focus .overview-icon,
 .grid-search-result:selected .overview-icon {
-  background-color: rgba(238, 238, 236, 0.1);
+  background-color: rgba(248, 238, 236, 0.1);
   transition-duration: 0ms;
   border-image: none;
   background-image: none; }
@@ -1255,8 +1254,8 @@ StScrollBar {
 .app-well-app-running-dot {
   width: 10px;
   height: 3px;
-  background-color: #707070;
-  margin-bottom: 2px; }
+  background-color: #F92672;
+  margin-bottom: 3px; }
 
 .search-provider-icon,
 .list-search-result, .app-well-app .overview-icon,
