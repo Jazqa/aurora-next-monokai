@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Aurora-Next-Red
+Name=Aurora-Next-Monokai
 Comment=Easy On The Eyes Gnome Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Aurora-Next-Red
-MetacityTheme=Aurora-Next-Red
+GtkTheme=Aurora-Next-Monokai
+MetacityTheme=Aurora-Next-Monokai
 ButtonLayout=:minimize,maximize,close
